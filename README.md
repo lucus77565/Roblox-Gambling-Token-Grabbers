@@ -1,2 +1,3 @@
 # Roblox-Gambling-Token-Grabbers
-Roblox based gambling site token grabbers
+
+Simple lil' scripts to grab peoples tokens from Roblox based gambling sites.
